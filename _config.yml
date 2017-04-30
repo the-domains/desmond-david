@@ -1,0 +1,75 @@
+typography_spectrum: 0.09667401434853673
+content_rating:
+  adult: false
+color:
+  lightness: 0.4599085895949762
+  brandColors:
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
+  saturation: 0.644654682987522
+  brandStrength: 0.7947830904263032
+  rhythmicContrast: 0.4798466771561296
+opengraph: {}
+layout_spectrum: 0.894398299511522
+analytics: {}
+author:
+  name: Paul Larsen
+  email: Paul.Larsen@DesmondDavid.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/caaa3bc4-c842-42ce-9e3b-aa54805d036d.png
+name: DESMOND DAVID
+navigation:
+  - name: Who We Are
+    id: 2a0f279e-9ce3-4ea4-9ce9-79dc03248ee6
+    type: content
+favicon: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: 'Desmond David, LLC'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c55cb4c-c87f-4c90-a242-35323deae6cf.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c55cb4c-c87f-4c90-a242-35323deae6cf.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: The Social Media & Digital Strategy Specialists
+purpose:
+  - type: contact
+    url: 'mailto:Info@DesmondDavid.com'
+    label: Contact Us Today!
+  - type: internal
+    label: About Us!
+    item: 2a0f279e-9ce3-4ea4-9ce9-79dc03248ee6
+github: true
