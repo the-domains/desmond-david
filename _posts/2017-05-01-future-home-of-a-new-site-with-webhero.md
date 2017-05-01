@@ -1,14 +1,10 @@
 ---
 inFeed: false
 description: >-
-  Desmond David  is a unique provider of consulting services to entrepreneurial
-  organization and individuals. In the last 20 years we’ve seen a lot of change
-  in the way companies do business.  Some remain true to their business models,
-  some have adapted to the change technology drives, and some have been born
-  with technology in their DNA.  We work with them all, helping each client
-  adapt and change to succeed.
-dateModified: '2017-05-01T04:39:01.129Z'
-datePublished: '2017-05-01T04:39:01.440Z'
+  LinkedIn - My LinkedIn     DD- Facebook Fan Page       DD-Instagram      
+  Twitter-My TwitterDD- Twitter       DD- YouTube      DD-LinkedIn
+dateModified: '2017-05-01T04:41:20.175Z'
+datePublished: '2017-05-01T04:41:20.573Z'
 title: ''
 author: []
 publisher: {}
@@ -21,9 +17,13 @@ url: future-home-of-desmonddavidcom/index.html
 _type: MediaObject
 
 ---
+[LinkedIn - My LinkedIn][0] DD- Facebook Fan Page DD-Instagram [Twitter-My Twitter][1][DD- Twitter][2] DD- YouTube [DD-LinkedIn][3]
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/225ba386-8395-4529-90a1-c79016b392c8.png)
 
-_**Desmond David is a unique provider of consulting services to entrepreneurial organization and individuals. In the last 20 years we've seen a lot of change in the way companies do business. Some remain true to their business models, some have adapted to the change technology drives, and some have been born with technology in their DNA. We work with them all, helping each client adapt and change to succeed.**_
+> "Desmond David is a unique provider of consulting services to entrepreneurial organization and individuals. In the last 20 years we've seen a lot of change in the way companies do business. Some remain true to their business models, some have adapted to the change technology drives, and some have been born with technology in their DNA. We work with them all, helping each client adapt and change to succeed." - Paul Larsen
 
 ---
 
@@ -42,7 +42,7 @@ _**Desmond David is a unique provider of consulting services to entrepreneurial 
 
 (201) - TBA - (eFax)
 
-[Paul.Larsen@DesmondDavid.com][0]
+[Paul.Larsen@DesmondDavid.com][4]
 
 @PaulLarsen5 - Twitter @DesmondDavidLLC - Twitter
 
@@ -52,10 +52,10 @@ _**Desmond David is a unique provider of consulting services to entrepreneurial 
 
 ---
 
-[LinkedIn - My LinkedIn][1] DD- Facebook Fan Page DD-Instagram [Twitter-My Twitter][2][DD- Twitter][3] DD- YouTube [DD-LinkedIn][4]
+[LinkedIn - My LinkedIn][0] DD- Facebook Fan Page DD-Instagram [Twitter-My Twitter][1][DD- Twitter][2] DD- YouTube [DD-LinkedIn][3]
 
-[0]: http://Paul.Larsen@DesmondDavid.com/ "My Email"
-[1]: https://www.linkedin.com/in/paul-larsen-a5bb461 "LinkedIn - Paul Larsen"
-[2]: http://PaulLarsen5/ "Twitter - My Twitter"
-[3]: http://DesmondDavidLLC/ "Desmond David LLC's - Twitter"
-[4]: http://www.linkedin.com/company/desmond-david "LinkedIn - Desmond David, LLC"
+[0]: https://www.linkedin.com/in/paul-larsen-a5bb461 "LinkedIn - Paul Larsen"
+[1]: http://PaulLarsen5/ "Twitter - My Twitter"
+[2]: http://DesmondDavidLLC/ "Desmond David LLC's - Twitter"
+[3]: http://www.linkedin.com/company/desmond-david "LinkedIn - Desmond David, LLC"
+[4]: http://Paul.Larsen@DesmondDavid.com/ "My Email"
