@@ -1,9 +1,11 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-05-01T04:11:29.823Z'
-datePublished: '2017-05-01T04:11:29.995Z'
-title: 'Desmond David, LLC.'
+description: 'Who and What We Are:'
+dateModified: '2017-05-01T04:42:42.856Z'
+datePublished: '2017-05-01T04:42:43.256Z'
+title: >-
+  LinkedIn - My LinkedIn DD- Facebook Fan Page DD-Instagram Twitter-My Twitter
+  DD- Twitter DD- YouTube DD-LinkedIn
 author: []
 publisher: {}
 via: {}
@@ -14,14 +16,18 @@ datePublishedOriginal: '2017-04-30T17:17:45.822Z'
 _type: Blurb
 
 ---
+# [LinkedIn - My LinkedIn][0] DD- Facebook Fan Page DD-Instagram [Twitter-My Twitter][1][DD- Twitter][2] DD- YouTube [DD-LinkedIn][3]
+
+---
+
 # **Desmond David, LLC.**
-[Contact Us Today!!][0]
+[Contact Us Today!!][4]
 
 ---
 
 **Who and What We Are:**
 
-[Desmond David, LLC ][1]is a unique provider of consulting services to entrepreneurial organization and individuals. The company had been formed back in March 2014 under the direction, guidance, and leader ship of a known Sr. Business Development Manager, within several industry sector, named [Paul Larsen][2].
+[Desmond David, LLC ][5]is a unique provider of consulting services to entrepreneurial organization and individuals. The company had been formed back in March 2014 under the direction, guidance, and leader ship of a known Sr. Business Development Manager, within several industry sector, named [Paul Larsen][6].
 
 _**Desmond David's founder, Paul Larsen **_is a highly sought after individual within this arena and is well-respected within the interactive digital media and social media. The agency is currently located in downtown Manhattan, NYC. and it is best know to deliver on it's promises and for its deep strategic thinking skills sets.
 
@@ -88,22 +94,26 @@ We possess the strategic writing talents that are both wordsmith ad idea generat
 
 (201) 321-4316 **Office Direct \#**
 
-****( ) **Office Direct Fax \#**
+( ) **Office Direct Fax \#**
 
-**[LinkedIn][3]**[My Twitter][4] Facebook Instagram YouTube [Twitter][5]**[Email][6]**
-[LinkedIn - Desmond David, LLC][0]
+**[LinkedIn][7]**[My Twitter][8] Facebook Instagram YouTube [Twitter][9]**[Email][10]**
+[LinkedIn - Desmond David, LLC][4]
 
 �hp�eq\>
 
-[0]: http://www.linkedin.com/company/desmond-david
+[0]: https://www.linkedin.com/in/paul-larsen-a5bb461 "LinkedIn - Paul Larsen"
+[1]: http://PaulLarsen5/ "Twitter - My Twitter"
+[2]: http://DesmondDavidLLC/ "Desmond David LLC's - Twitter"
+[3]: http://www.linkedin.com/company/desmond-david "LinkedIn - Desmond David, LLC"
+[4]: http://www.linkedin.com/company/desmond-david
  
 Industry
 Marketing and Advertising
 Founded
 2014
-[1]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC.'s LinkedIn Page"
-[2]: https://www.linkedin.com/in/paul-larsen-a5bb461 "My LinkedIn Page"
-[3]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC. - Linked In Business Page"
-[4]: http://Paul Larsen5/ "Paul Larsen - Twitter"
-[5]: http://DesmondDavidLLC/ "Desmond David, LLC - Twitter"
-[6]: http://Paul.Larsen@DesmondDavid.com/ "Email - Paul Larsen"
+[5]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC.'s LinkedIn Page"
+[6]: https://www.linkedin.com/in/paul-larsen-a5bb461 "My LinkedIn Page"
+[7]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC. - Linked In Business Page"
+[8]: http://Paul Larsen5/ "Paul Larsen - Twitter"
+[9]: http://DesmondDavidLLC/ "Desmond David, LLC - Twitter"
+[10]: http://Paul.Larsen@DesmondDavid.com/ "Email - Paul Larsen"
