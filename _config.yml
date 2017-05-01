@@ -1,5 +1,6 @@
-layout_spectrum: 0.7522245352456143
 typography_spectrum: 1
+content_rating:
+  adult: false
 color:
   lightness: 0.3026844796231293
   brandColors:
@@ -11,10 +12,9 @@ color:
   saturation: 0.33105523049490215
   brandStrength: 0.4527139838277777
   rhythmicContrast: 0.4956311231323213
-content_rating:
-  adult: false
 github: true
 opengraph: {}
+layout_spectrum: 0.7522245352456143
 analytics:
   twitter: '@desmonddavidllc'
 author:
@@ -24,6 +24,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/caaa3bc4-c842-42ce-9e3b-aa54805d036d.png
 name: DESMOND DAVID
+navigation:
+  - name: 'Desmond David, LLC'
+    id: a423aafe-28a4-431c-9e41-a387a70844f2
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e483a76-ff25-4779-9ada-6e3e86c7ebb3.png
 collections:
