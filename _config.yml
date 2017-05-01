@@ -23,9 +23,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/caaa3bc4-c842-42ce-9e3b-aa54805d036d.png
 name: DESMOND DAVID
 navigation:
-  - name: Who We Are
-    id: 2a0f279e-9ce3-4ea4-9ce9-79dc03248ee6
-    type: content
   - name: Writing Samples
     id: a423aafe-28a4-431c-9e41-a387a70844f2
     type: content
