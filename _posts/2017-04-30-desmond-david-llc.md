@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Phone (201) 321-4316
-dateModified: '2017-05-01T01:39:41.648Z'
-datePublished: '2017-05-01T01:39:41.974Z'
+dateModified: '2017-05-01T01:40:21.675Z'
+datePublished: '2017-05-01T01:40:22.583Z'
 title: 'Desmond David, LLC'
 author: []
 publisher: {}
@@ -22,6 +22,10 @@ _type: Article
 **Email: [Info@DesmondDavid.com][0]**
 
 **Who and What We Are:**
+
+About us
+
+Desmond David is a unique provider of consulting services to entrepreneurial organization and individuals. In the last 20 years we've seen a lot of change in the way companies do business. Some remain true to their business models, some have adapted to the change technology drives, and some have been born with technology in their DNA. We've worked with many of them across a wide array of industry segments. with each passing day helping each client adapt and react to new market conditions and while making the necessary and proven techniques and plans of change, in order to survive and succeed in today's global economyto succeed.
 
 Here at Desmond David we are a one stop shop, dedicated, digital strategy, online original content strategists and content copywriters content provider.
 
