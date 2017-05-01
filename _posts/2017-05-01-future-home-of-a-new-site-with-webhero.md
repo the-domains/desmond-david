@@ -1,11 +1,11 @@
 ---
 inFeed: false
 description: >-
-  LinkedIn - My LinkedIn     DD- Facebook Fan Page       DD-Instagram      
-  Twitter-My TwitterDD- Twitter       DD- YouTube      DD-LinkedIn
-dateModified: '2017-05-01T04:41:20.175Z'
-datePublished: '2017-05-01T04:41:20.573Z'
-title: ''
+  LinkedIn - My LinkedIn DD- Facebook Fan Page DD-Instagram Twitter-My
+  TwitterDD- Twitter DD- YouTube DD-LinkedIn
+dateModified: '2017-05-01T04:56:07.667Z'
+datePublished: '2017-05-01T04:56:08.011Z'
+title: About Me!  Paul Larson
 author: []
 publisher: {}
 via: {}
@@ -23,14 +23,11 @@ _type: MediaObject
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/225ba386-8395-4529-90a1-c79016b392c8.png)
 
-> "Desmond David is a unique provider of consulting services to entrepreneurial organization and individuals. In the last 20 years we've seen a lot of change in the way companies do business. Some remain true to their business models, some have adapted to the change technology drives, and some have been born with technology in their DNA. We work with them all, helping each client adapt and change to succeed." - Paul Larsen
-
 ---
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5756ecd3-9904-401d-9f23-3164a1c9aa4d.jpg)
 
-> I'm a business professional with strong analytical skills experienced in major business change initiatives. 15 years of
-> experience analyzing core business issues, developing strategic plans, and delivering business results."
+# About Me! Paul Larson
 
 **Paul Larsen**
 
