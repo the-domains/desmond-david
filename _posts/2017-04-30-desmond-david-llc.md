@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-05-01T03:51:50.345Z'
-datePublished: '2017-05-01T03:51:50.732Z'
+description: 'Who and What We Are:'
+dateModified: '2017-05-01T03:54:30.220Z'
+datePublished: '2017-05-01T03:54:30.659Z'
 title: 'Desmond David, LLC.'
 author: []
 publisher: {}
@@ -14,8 +14,6 @@ datePublishedOriginal: '2017-04-30T17:17:45.822Z'
 _type: Blurb
 
 ---
-<button data-role="cta" style="">Contact Us Today</button>
-
 # **Desmond David, LLC.**
 
 ---
@@ -23,6 +21,8 @@ _type: Blurb
 **Who and What We Are:**
 
 [Desmond David, LLC ][0]is a unique provider of consulting services to entrepreneurial organization and individuals. The company had been formed back in March 2014 under the direction, guidance, and leader ship of a known Sr. Business Development Manager, within several industry sector, named [Paul Larsen][1].
+
+<button data-role="cta" style="">Contact Us Today!!</button>
 
 _**Desmond David's founder, Paul Larsen **_is a highly sought after individual within this arena and is well-respected within the interactive digital media and social media. The agency is currently located in downtown Manhattan, NYC. and it is best know to deliver on it's promises and for its deep strategic thinking skills sets.
 
@@ -98,6 +98,7 @@ DD - Facebook Fan Page
 DD - Instagram
 
 DD - YouTube Channel
+[LinkedIn - Desmond David, LLC][4]
 
 �hp�eq\>
 
@@ -105,3 +106,9 @@ DD - YouTube Channel
 [1]: https://www.linkedin.com/in/paul-larsen-a5bb461 "My LinkedIn Page"
 [2]: http://Info@DesmondDavid.com/ "Company Email:"
 [3]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC. - Linked In Business Page"
+[4]: http://www.linkedin.com/company/desmond-david
+ 
+Industry
+Marketing and Advertising
+Founded
+2014
