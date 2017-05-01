@@ -1,11 +1,11 @@
 ---
 inFeed: true
-description: 'Who and What We Are:'
-dateModified: '2017-05-01T04:42:42.856Z'
-datePublished: '2017-05-01T04:42:43.256Z'
-title: >-
-  LinkedIn - My LinkedIn DD- Facebook Fan Page DD-Instagram Twitter-My Twitter
-  DD- Twitter DD- YouTube DD-LinkedIn
+description: >-
+  LinkedIn - My LinkedIn DD- Facebook Fan Page DD-Instagram Twitter-My
+  TwitterDD- Twitter DD- YouTube DD-LinkedIn
+dateModified: '2017-05-01T04:45:19.356Z'
+datePublished: '2017-05-01T04:45:19.920Z'
+title: 'Desmond David, LLC'
 author: []
 publisher: {}
 via: {}
@@ -16,16 +16,14 @@ datePublishedOriginal: '2017-04-30T17:17:45.822Z'
 _type: Blurb
 
 ---
-# [LinkedIn - My LinkedIn][0] DD- Facebook Fan Page DD-Instagram [Twitter-My Twitter][1][DD- Twitter][2] DD- YouTube [DD-LinkedIn][3]
+# **Desmond David, LLC**
 
 ---
 
-# **Desmond David, LLC.**
+[LinkedIn - My LinkedIn][0] DD- Facebook Fan Page DD-Instagram [Twitter-My Twitter][1][DD- Twitter][2] DD- YouTube [DD-LinkedIn][3]
 [Contact Us Today!!][4]
 
 ---
-
-**Who and What We Are:**
 
 [Desmond David, LLC ][5]is a unique provider of consulting services to entrepreneurial organization and individuals. The company had been formed back in March 2014 under the direction, guidance, and leader ship of a known Sr. Business Development Manager, within several industry sector, named [Paul Larsen][6].
 
