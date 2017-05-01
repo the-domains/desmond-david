@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Phone (201) 321-4316
-dateModified: '2017-05-01T01:40:21.675Z'
-datePublished: '2017-05-01T01:40:22.583Z'
+dateModified: '2017-05-01T02:20:16.510Z'
+datePublished: '2017-05-01T02:20:17.020Z'
 title: 'Desmond David, LLC'
 author: []
 publisher: {}
@@ -20,6 +20,8 @@ _type: Article
 **Phone (201) 321-4316**
 
 **Email: [Info@DesmondDavid.com][0]**
+
+LinkedIn: https://www.linkedin.com/in/paul-larsen-a5bb461
 
 **Who and What We Are:**
 
