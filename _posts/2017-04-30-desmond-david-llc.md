@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: Phone (201) 321-4316
-dateModified: '2017-05-01T03:15:02.485Z'
-datePublished: '2017-05-01T03:15:02.907Z'
-title: 'Desmond David, LLC'
+description: 'Who and What We Are:'
+dateModified: '2017-05-01T03:26:32.116Z'
+datePublished: '2017-05-01T03:26:32.680Z'
+title: 'Desmond David, LLC.'
 author: []
 publisher: {}
 via: {}
@@ -15,17 +15,13 @@ url: desmond-david-llc/index.html
 _type: Article
 
 ---
-# **Desmond David, LLC**
-
-**Phone (201) 321-4316**
-
-**Email: [Info@DesmondDavid.com][0]**
+# **Desmond David, LLC.**
 
 **Who and What We Are:**
 
-[Desmond David, LLC ][1]is a unique provider of consulting services to entrepreneurial organization and individuals. The company had been formed back in March 2014 under the direction, guidance, and leader ship of a known Sr. Business Development Manager, within several industry sector, named [Paul Larsen][2]. 
+[Desmond David, LLC ][0]is a unique provider of consulting services to entrepreneurial organization and individuals. The company had been formed back in March 2014 under the direction, guidance, and leader ship of a known Sr. Business Development Manager, within several industry sector, named [Paul Larsen][1]. 
 
-Desmond David's founder, Paul Larsen is a highly sought after individual within this arena and is well-respected within the interactive digital media and social medial aarena's. The agency located in downtown New York City. and it is best know to deliver on it's promises and for its deep strategic thinking skills sets. Its founder has work along side many meaningful, and important, high-profile classified projects and confidential clients all to deliver on a promise to per mote and create an integrated, comprehensive web experiences that span across all channels web, mobile and social social media, and digital marketing.
+Desmond David's founder, Paul Larsen is a highly sought after individual within this arena and is well-respected within the interactive digital media and social medial aaren's. The agency located in downtown New York City. and it is best know to deliver on it's promises and for its deep strategic thinking skills sets. Its founder has work along side many meaningful, and important, high-profile classified projects and confidential clients all to deliver on a promise to per mote and create an integrated, comprehensive web experiences that span across all channels web, mobile and social social media, and digital marketing.
 
 Paul has earned his respect over the years not only with his colleagues and pears, but to all of his self-sources client book. He is a true business professional with strong analytical skills, who is concentrated, focused, and experienced in major business change initiatives over the last 20 years.
 
@@ -62,7 +58,7 @@ We possess the strategic writing talents that are both wordsmith ad idea generat
 
 > "Desmond David, LLC. brings consistent innovation to the core of our colleagues, relationships and our client and end users work. -- The staff does not just do it for the sake innovation, but to elevate the users' experience and exceed our clients' goals." -- Desmond David Team
 
-* We've been doing this right for our clients for the least 3.5 years and can hit the ground running.
+* We've been doing this right for our clients for the least 3years and can hit the ground running.
 
 * We've written for large. major, distinct brands across a variety of industries and audiences.
 
@@ -74,8 +70,23 @@ We possess the strategic writing talents that are both wordsmith ad idea generat
 
 * We can engage with potential clients to understand their unique needs and help shape proposals that win.
 
-�hp�eq\>
+**Desmond David, LLC.**
 
-[0]: mailto:Info@DesmondDavid.com
-[1]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC.'s LinkedIn Page"
-[2]: https://www.linkedin.com/in/paul-larsen-a5bb461 "My LinkedIn Page"
+(201) **Phone Main \#: **
+
+( ) **Company Fax \#:**
+
+**[Info@DesmondDavid.com][2]**
+
+**[LinkedIn:][3]**Paul Larsen
+
+* Paul Larsen - Owner / Development Manager
+* (201) 321-4316
+* Paul.Larsen@DesmondDavid.com
+* LinkedIn: 
+* �hp�eq\>
+
+[0]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC.'s LinkedIn Page"
+[1]: https://www.linkedin.com/in/paul-larsen-a5bb461 "My LinkedIn Page"
+[2]: http://Info@DesmondDavid.com/ "Company Email:"
+[3]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC. - Linked In Business Page"
