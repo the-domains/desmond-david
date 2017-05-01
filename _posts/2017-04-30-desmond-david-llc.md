@@ -1,17 +1,18 @@
 ---
 inFeed: true
 description: 'Who and What We Are:'
-dateModified: '2017-05-01T03:47:03.064Z'
-datePublished: '2017-05-01T03:47:03.162Z'
+dateModified: '2017-05-01T03:47:26.227Z'
+datePublished: '2017-05-01T03:47:26.773Z'
 title: 'Desmond David, LLC.'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-30-desmond-david-llc.md
-hasPage: false
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-30T17:17:45.822Z'
-_type: Blurb
+url: desmond-david-llc/index.html
+_type: Article
 
 ---
 # **Desmond David, LLC.**
