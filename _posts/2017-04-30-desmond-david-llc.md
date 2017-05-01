@@ -1,11 +1,14 @@
 ---
 inFeed: true
 description: >-
-  LinkedIn - My LinkedIn DD- Facebook Fan Page DD-Instagram Twitter-My
-  TwitterDD- Twitter DD- YouTube DD-LinkedIn
-dateModified: '2017-05-01T04:56:59.517Z'
-datePublished: '2017-05-01T04:56:59.827Z'
-title: 'Desmond David, LLC - About Us!!'
+  Desmond David’s founder, Paul Larsen is a highly sought after individual
+  within this arena and is well-respected within the interactive digital media
+  and social media. The agency is currently located in downtown Manhattan, NYC.
+  and it is best know to deliver on it’s promises and for its deep strategic
+  thinking skills sets.
+dateModified: '2017-05-01T04:59:24.520Z'
+datePublished: '2017-05-01T04:59:25.016Z'
+title: 'Desmond David, LLC'
 author: []
 publisher: {}
 via: {}
@@ -16,18 +19,15 @@ datePublishedOriginal: '2017-04-30T17:17:45.822Z'
 _type: Blurb
 
 ---
-# **Desmond David, LLC - About Us!!**
-
----
-
-[LinkedIn - My LinkedIn][0] DD- Facebook Fan Page DD-Instagram [Twitter-My Twitter][1][DD- Twitter][2] DD- YouTube [DD-LinkedIn][3]
-[Contact Us Today!!][4]
-
 ---
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0032ecb-95c1-4ae1-9e7b-a0a67a231b11.png)
 
-[Desmond David, LLC ][5]is a unique provider of consulting services to entrepreneurial organization and individuals. The company had been formed back in March 2014 under the direction, guidance, and leader ship of a known Sr. Business Development Manager, within several industry sector, named [Paul Larsen][6].
+# **Desmond David, LLC**
+
+---
+
+# [Desmond David, LLC ][0]is a unique provider of consulting services to entrepreneurial organization and individuals. The company had been formed back in March 2014 under the direction, guidance, and leader ship of a known Sr. Business Development Manager, within several industry sector, named [Paul Larsen][1].
 
 _**Desmond David's founder, Paul Larsen **_is a highly sought after individual within this arena and is well-respected within the interactive digital media and social media. The agency is currently located in downtown Manhattan, NYC. and it is best know to deliver on it's promises and for its deep strategic thinking skills sets.
 
@@ -96,24 +96,20 @@ We possess the strategic writing talents that are both wordsmith ad idea generat
 
 ( ) **Office Direct Fax \#**
 
-**[LinkedIn][7]**[My Twitter][8] Facebook Instagram YouTube [Twitter][9]**[Email][10]**
-[LinkedIn - Desmond David, LLC][4]
+**[LinkedIn][2]**[My Twitter][3] Facebook Instagram YouTube [Twitter][4]**[Email][5]**
+[LinkedIn - Desmond David, LLC][6]
 
 �hp�eq\>
 
-[0]: https://www.linkedin.com/in/paul-larsen-a5bb461 "LinkedIn - Paul Larsen"
-[1]: http://PaulLarsen5/ "Twitter - My Twitter"
-[2]: http://DesmondDavidLLC/ "Desmond David LLC's - Twitter"
-[3]: http://www.linkedin.com/company/desmond-david "LinkedIn - Desmond David, LLC"
-[4]: http://www.linkedin.com/company/desmond-david
+[0]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC.'s LinkedIn Page"
+[1]: https://www.linkedin.com/in/paul-larsen-a5bb461 "My LinkedIn Page"
+[2]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC. - Linked In Business Page"
+[3]: http://Paul Larsen5/ "Paul Larsen - Twitter"
+[4]: http://DesmondDavidLLC/ "Desmond David, LLC - Twitter"
+[5]: http://Paul.Larsen@DesmondDavid.com/ "Email - Paul Larsen"
+[6]: http://www.linkedin.com/company/desmond-david
  
 Industry
 Marketing and Advertising
 Founded
 2014
-[5]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC.'s LinkedIn Page"
-[6]: https://www.linkedin.com/in/paul-larsen-a5bb461 "My LinkedIn Page"
-[7]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC. - Linked In Business Page"
-[8]: http://Paul Larsen5/ "Paul Larsen - Twitter"
-[9]: http://DesmondDavidLLC/ "Desmond David, LLC - Twitter"
-[10]: http://Paul.Larsen@DesmondDavid.com/ "Email - Paul Larsen"
