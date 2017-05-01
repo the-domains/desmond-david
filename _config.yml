@@ -15,7 +15,8 @@ color:
 github: true
 opengraph: {}
 layout_spectrum: 0.894398299511522
-analytics: {}
+analytics:
+  twitter: '@desmonddavidllc'
 author:
   name: Paul Larsen
   email: Paul.Larsen@DesmondDavid.com
