@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Who and What We Are:'
-dateModified: '2017-05-01T03:30:09.907Z'
-datePublished: '2017-05-01T03:30:10.426Z'
+dateModified: '2017-05-01T03:31:52.046Z'
+datePublished: '2017-05-01T03:31:52.466Z'
 title: 'Desmond David, LLC.'
 author: []
 publisher: {}
@@ -21,7 +21,9 @@ _type: Article
 
 [Desmond David, LLC ][0]is a unique provider of consulting services to entrepreneurial organization and individuals. The company had been formed back in March 2014 under the direction, guidance, and leader ship of a known Sr. Business Development Manager, within several industry sector, named [Paul Larsen][1]. 
 
-Desmond David's founder, Paul Larsen is a highly sought after individual within this arena and is well-respected within the interactive digital media and social medial aaren's. The agency located in downtown New York City. and it is best know to deliver on it's promises and for its deep strategic thinking skills sets. Its founder has work along side many meaningful, and important, high-profile classified projects and confidential clients all to deliver on a promise to per mote and create an integrated, comprehensive web experiences that span across all channels web, mobile and social social media, and digital marketing.
+_**Desmond David's founder, Paul Larsen **_is a highly sought after individual within this arena and is well-respected within the interactive digital media and social media. The agency is currently located in downtown Manhattan, NYC. and it is best know to deliver on it's promises and for its deep strategic thinking skills sets.
+
+Its founder has work along side many meaningful, and important, high-profile classified projects and confidential clients all to deliver on a promise to per mote and create an integrated, comprehensive web experiences that span across all channels web, mobile and social social media, and digital marketing.
 
 Paul has earned his respect over the years not only with his colleagues and pears, but to all of his self-sources client book. He is a true business professional with strong analytical skills, who is concentrated, focused, and experienced in major business change initiatives over the last 20 years.
 
