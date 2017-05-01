@@ -1,20 +1,20 @@
-typography_spectrum: 0.09667401434853673
+layout_spectrum: 0.7522245352456143
+typography_spectrum: 1
+color:
+  lightness: 0.3026844796231293
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  saturation: 0.33105523049490215
+  brandStrength: 0.4527139838277777
+  rhythmicContrast: 0.4956311231323213
 content_rating:
   adult: false
-color:
-  lightness: 0.4599085895949762
-  brandColors:
-    - '#63A69F'
-    - '#F2E1AC'
-    - '#F2836B'
-    - '#F2594B'
-    - '#CD2C24'
-  saturation: 0.644654682987522
-  brandStrength: 0.7947830904263032
-  rhythmicContrast: 0.4798466771561296
 github: true
 opengraph: {}
-layout_spectrum: 0.894398299511522
 analytics:
   twitter: '@desmonddavidllc'
 author:
