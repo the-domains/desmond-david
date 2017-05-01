@@ -22,6 +22,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/caaa3bc4-c842-42ce-9e3b-aa54805d036d.png
 name: DESMOND DAVID
+navigation:
+  - name: About Our Founder - Paul Larsen
+    id: a423aafe-28a4-431c-9e41-a387a70844f2
+    type: content
 favicon: null
 collections:
   - index:
