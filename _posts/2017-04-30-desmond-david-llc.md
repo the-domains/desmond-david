@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Who and What We Are:'
-dateModified: '2017-05-01T03:26:32.116Z'
-datePublished: '2017-05-01T03:26:32.680Z'
+dateModified: '2017-05-01T03:30:09.907Z'
+datePublished: '2017-05-01T03:30:10.426Z'
 title: 'Desmond David, LLC.'
 author: []
 publisher: {}
@@ -70,21 +70,21 @@ We possess the strategic writing talents that are both wordsmith ad idea generat
 
 * We can engage with potential clients to understand their unique needs and help shape proposals that win.
 
-**Desmond David, LLC.**
-
-(201) **Phone Main \#: **
-
-( ) **Company Fax \#:**
+## **Desmond David, LLC.**
 
 **[Info@DesmondDavid.com][2]**
 
-**[LinkedIn:][3]**Paul Larsen
+(201) **Main **( ) **Fax **
 
-* Paul Larsen - Owner / Development Manager
-* (201) 321-4316
-* Paul.Larsen@DesmondDavid.com
-* LinkedIn: 
-* �hp�eq\>
+**[DD - LinkedIn][3]**
+
+DD - Facebook Fan Page
+
+DD - Instagram
+
+DD - YouTube Channel
+
+�hp�eq\>
 
 [0]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC.'s LinkedIn Page"
 [1]: https://www.linkedin.com/in/paul-larsen-a5bb461 "My LinkedIn Page"
