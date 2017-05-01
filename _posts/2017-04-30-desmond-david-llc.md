@@ -7,19 +7,18 @@ description: >-
   staggering demand growth levels under the direction, guidance and leadership
   of a well known Business Development Manager amongst industry sectors, named
   Paul Larsen.
-dateModified: '2017-05-01T05:48:12.383Z'
-datePublished: '2017-05-01T05:48:12.773Z'
+dateModified: '2017-05-01T05:50:00.020Z'
+datePublished: '2017-05-01T05:50:00.469Z'
 title: 'Desmond David, LLC'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-30-desmond-david-llc.md
-hasPage: false
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJxdzMEOgjAMANBfaXqHXo3ZdpEjR3-gjiIzDMhaXPh7TfRgPL_kOYY4s6pHq8lMSmMpy5wWQZiKjB4ns03PRF9v45qpE83rMnT8TEPfXzBcq4gp3A74I0ccwGksaTNgPZYIWqJHom1mG9eS29-4puH-jtqHIsSJi4p53G1sThgcfZrwAtHNQBo
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-30T17:17:45.822Z'
-_type: MediaObject
+url: desmond-david-llc/index.html
+_type: Article
 
 ---
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdzMEOgjAMANBfaXqHXo3ZdpEjR3-gjiIzDMhaXPh7TfRgPL_kOYY4s6pHq8lMSmMpy5wWQZiKjB4ns03PRF9v45qpE83rMnT8TEPfXzBcq4gp3A74I0ccwGksaTNgPZYIWqJHom1mG9eS29-4puH-jtqHIsSJi4p53G1sThgcfZrwAtHNQBo" height="244" style=""></iframe>
