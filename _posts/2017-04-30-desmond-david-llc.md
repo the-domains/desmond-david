@@ -2,13 +2,13 @@
 inFeed: true
 description: >-
   Desmond David is a unique provided of Marketing and Advertising Consulting
-  Services to entrepreneuraial organizations and individuals.  The company had
+  Services to entrepreneuraial organizations and individuals. The company had
   been created as far back as 2004 but really took off in March 2015 with
   staggering demand growth levels under the direction, guidance and leadership
   of a well known Business Development Manager amongst industry sectors, named
-  Paul Larsen.  
-dateModified: '2017-05-01T05:15:57.986Z'
-datePublished: '2017-05-01T05:15:58.134Z'
+  Paul Larsen.
+dateModified: '2017-05-01T05:33:19.365Z'
+datePublished: '2017-05-01T05:33:19.734Z'
 title: 'Desmond David, LLC'
 author: []
 publisher: {}
@@ -28,7 +28,7 @@ _type: Blurb
 
 ---
 
-_**Desmond David is a unique provided of Marketing and Advertising Consulting Services to entrepreneuraial organizations and individuals. The company had been created as far back as 2004 but really took off in March 2015 with staggering demand growth levels under the direction, guidance and leadership of a well known Business Development Manager amongst industry sectors, named Paul Larsen. **_
+_**Desmond David is a unique provided of Marketing and Advertising Consulting Services to entrepreneuraial organizations and individuals. The company had been created as far back as 2004 but really took off in March 2015 with staggering demand growth levels under the direction, guidance and leadership of a well known Business Development Manager amongst industry sectors, named Paul Larsen.**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb09d673-7ef8-4e79-b2b4-aa65ac6d885d.jpg)
 
 ---
@@ -101,18 +101,13 @@ We possess the strategic writing talents that are both wordsmith ad idea generat
 ( ) **Office Direct Fax \#**
 
 **[LinkedIn][1]**[My Twitter][2] Facebook Instagram YouTube [Twitter][3]**[Email][4]**
-[LinkedIn - Desmond David, LLC][5]
 
-�hp�eq\>
+---
+
+
 
 [0]: https://www.linkedin.com/hp/update/6263007484311539712 "My LinkedIn"
 [1]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC. - Linked In Business Page"
 [2]: http://Paul Larsen5/ "Paul Larsen - Twitter"
 [3]: http://DesmondDavidLLC/ "Desmond David, LLC - Twitter"
 [4]: http://Paul.Larsen@DesmondDavid.com/ "Email - Paul Larsen"
-[5]: http://www.linkedin.com/company/desmond-david
- 
-Industry
-Marketing and Advertising
-Founded
-2014
