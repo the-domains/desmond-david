@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Desmond David, LLC'
-dateModified: '2017-05-01T01:23:34.099Z'
-datePublished: '2017-05-01T01:23:34.579Z'
+dateModified: '2017-05-01T01:24:32.323Z'
+datePublished: '2017-05-01T01:24:32.618Z'
 title: ''
 author: []
 publisher: {}
