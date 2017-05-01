@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-05-01T04:00:52.745Z'
-datePublished: '2017-05-01T04:00:53.096Z'
+dateModified: '2017-05-01T04:07:15.089Z'
+datePublished: '2017-05-01T04:07:15.693Z'
 title: 'Desmond David, LLC.'
 author: []
 publisher: {}
@@ -90,7 +90,7 @@ We possess the strategic writing talents that are both wordsmith ad idea generat
 
 ****( ) **Office Direct Fax \#**
 
-**[LinkedIn][3]** Facebook Instagram YouTube Twitter **[Email][4]**
+**[LinkedIn][3]**[My Twitter][4] Facebook Instagram YouTube [Twitter][5]**[Email][6]**
 [LinkedIn - Desmond David, LLC][0]
 
 �hp�eq\>
@@ -104,4 +104,6 @@ Founded
 [1]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC.'s LinkedIn Page"
 [2]: https://www.linkedin.com/in/paul-larsen-a5bb461 "My LinkedIn Page"
 [3]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC. - Linked In Business Page"
-[4]: http://Paul.Larsen@DesmondDavid.com/ "Contact Us!"
+[4]: http://Paul Larsen5/ "Paul Larsen - Twitter"
+[5]: http://DesmondDavidLLC/ "Desmond David, LLC - Twitter"
+[6]: http://Paul.Larsen@DesmondDavid.com/ "Email - Paul Larsen"
