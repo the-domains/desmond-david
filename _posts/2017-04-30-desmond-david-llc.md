@@ -1,25 +1,24 @@
 ---
 inFeed: true
 description: 'Who and What We Are:'
-dateModified: '2017-05-01T03:37:52.668Z'
-datePublished: '2017-05-01T03:37:53.067Z'
+dateModified: '2017-05-01T03:38:23.771Z'
+datePublished: '2017-05-01T03:38:24.082Z'
 title: 'Desmond David, LLC.'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-30-desmond-david-llc.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-04-30T17:17:45.822Z'
-url: desmond-david-llc/index.html
-_type: Article
+_type: Blurb
 
 ---
 # **Desmond David, LLC.**
 
 **Who and What We Are:**
 
-[Desmond David, LLC ][0]is a unique provider of consulting services to entrepreneurial organization and individuals. The company had been formed back in March 2014 under the direction, guidance, and leader ship of a known Sr. Business Development Manager, within several industry sector, named [Paul Larsen][1]. 
+[Desmond David, LLC ][0]is a unique provider of consulting services to entrepreneurial organization and individuals. The company had been formed back in March 2014 under the direction, guidance, and leader ship of a known Sr. Business Development Manager, within several industry sector, named [Paul Larsen][1].
 
 _**Desmond David's founder, Paul Larsen **_is a highly sought after individual within this arena and is well-respected within the interactive digital media and social media. The agency is currently located in downtown Manhattan, NYC. and it is best know to deliver on it's promises and for its deep strategic thinking skills sets.
 
@@ -29,12 +28,12 @@ Paul has earned his respect over the years not only with his colleagues and pear
 
 > "In the last 20 years we've seen a lot of change in the way companies do business. Some remain true to their business models, some have adapted to the change technology drives, and some have been born with technology in their DNA. We've worked with many of them across a wide array of industry segments. with each passing day helping each client adapt and react to new market conditions and while making the necessary and proven techniques and plans of change, in order to survive and succeed in today's global economy to succeed." - Paul Larsen,-- Development Manager at Desmond David, LLC. -- LinkedIn: https://www.linkedin.com/in/paul-larsen-a5bb461
 
-Paul. along along side the rest of team, are excited to come to work everyday, expecting the unexpected and overcoming all challenges brought before them. To "work hard and grow daily" is the motto from within its walls. The work culture and environment have created, displayed, and established an amazing positive energy, from all its employees who work within its walls. Everyone working hard and efficiently together to master any task at hand. 
-> 
+Paul. along along side the rest of team, are excited to come to work everyday, expecting the unexpected and overcoming all challenges brought before them. To "work hard and grow daily" is the motto from within its walls. The work culture and environment have created, displayed, and established an amazing positive energy, from all its employees who work within its walls. Everyone working hard and efficiently together to master any task at hand.
+
 > "Words alone simply just can't define us. Our Vision is to tell vivid, memorable stories that are targeted to inform and engage the customer's end client. Our team works hands on with our clients, taking complex ideas and turning them into compelling narrative s that drive actions and delivers end results." - Paul Larsen
 
-Paul's team has, in the past and in planning for its future endeavors, handled a wide and vast array of experience, everything form detailed analysis of core business issues, developing strategic plans, developing new digital marketing strategies for SEO, Branding, Social Media, Public Relations, Publicity, Project Management, and Digital Transformation, all while ensuring and delivering solution drive and sound business results. 
-> 
+Paul's team has, in the past and in planning for its future endeavors, handled a wide and vast array of experience, everything form detailed analysis of core business issues, developing strategic plans, developing new digital marketing strategies for SEO, Branding, Social Media, Public Relations, Publicity, Project Management, and Digital Transformation, all while ensuring and delivering solution drive and sound business results.
+
 > "Here at DesmodDavid.com aka.. Desmond David, LLC, we are a one stop shop, dedicated, digital strategy, online original content strategists and content copywriters content provider." - Paul Larsen
 
 We possess the strategic writing talents that are both wordsmith ad idea generators. Our content writers are digital natives who understand how design and content come together to tell a better story with fewer words... a story that will be told across both operation, sales and client channels in many different forms including text, imagery and video.
@@ -76,7 +75,7 @@ We possess the strategic writing talents that are both wordsmith ad idea generat
 
 **[Info@DesmondDavid.com][2]**
 
-(201) **Main **( ) **Fax **
+(201) **Main **( ) **Fax**
 
 **[DD - LinkedIn][3]**
 
