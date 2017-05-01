@@ -7,8 +7,8 @@ description: >-
   staggering demand growth levels under the direction, guidance and leadership
   of a well known Business Development Manager amongst industry sectors, named
   Paul Larsen.  
-dateModified: '2017-05-01T05:05:11.607Z'
-datePublished: '2017-05-01T05:05:12.067Z'
+dateModified: '2017-05-01T05:10:07.864Z'
+datePublished: '2017-05-01T05:10:08.327Z'
 title: 'Desmond David, LLC'
 author: []
 publisher: {}
@@ -30,6 +30,8 @@ _type: Blurb
 
 _**Desmond David is a unique provided of Marketing and Advertising Consulting Services to entrepreneuraial organizations and individuals. The company had been created as far back as 2004 but really took off in March 2015 with staggering demand growth levels under the direction, guidance and leadership of a well known Business Development Manager amongst industry sectors, named Paul Larsen. **_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb09d673-7ef8-4e79-b2b4-aa65ac6d885d.jpg)
+
+---
 
 _**Desmond David's founder, Paul Larsen **_is a highly sought after individual within this arena and is well-respected within the interactive digital media and social media. The agency is currently located in downtown Manhattan, NYC. and it is best know to deliver on it's promises and for its deep strategic thinking skills sets.
 
@@ -58,7 +60,7 @@ We possess the strategic writing talents that are both wordsmith ad idea generat
 
 ---
 
-**The people who work for Desmond David and its founders all possess the following shared traits.**
+**[The people who work for Desmond David and its founders all possess the following shared traits.][0]**
 
 * **Strategically.** We apply deep research and critical thinking to create integrated, comprehensive content strategies.
 
@@ -98,16 +100,17 @@ We possess the strategic writing talents that are both wordsmith ad idea generat
 
 ( ) **Office Direct Fax \#**
 
-**[LinkedIn][0]**[My Twitter][1] Facebook Instagram YouTube [Twitter][2]**[Email][3]**
-[LinkedIn - Desmond David, LLC][4]
+**[LinkedIn][1]**[My Twitter][2] Facebook Instagram YouTube [Twitter][3]**[Email][4]**
+[LinkedIn - Desmond David, LLC][5]
 
 �hp�eq\>
 
-[0]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC. - Linked In Business Page"
-[1]: http://Paul Larsen5/ "Paul Larsen - Twitter"
-[2]: http://DesmondDavidLLC/ "Desmond David, LLC - Twitter"
-[3]: http://Paul.Larsen@DesmondDavid.com/ "Email - Paul Larsen"
-[4]: http://www.linkedin.com/company/desmond-david
+[0]: https://www.linkedin.com/hp/update/6263007484311539712 "My LinkedIn"
+[1]: http://www.linkedin.com/company/desmond-david "Desmond David, LLC. - Linked In Business Page"
+[2]: http://Paul Larsen5/ "Paul Larsen - Twitter"
+[3]: http://DesmondDavidLLC/ "Desmond David, LLC - Twitter"
+[4]: http://Paul.Larsen@DesmondDavid.com/ "Email - Paul Larsen"
+[5]: http://www.linkedin.com/company/desmond-david
  
 Industry
 Marketing and Advertising
