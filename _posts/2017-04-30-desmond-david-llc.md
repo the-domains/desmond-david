@@ -8,7 +8,7 @@ description: >-
   of a well known Business Development Manager amongst industry sectors, named
   Paul Larsen.
 dateModified: '2017-05-01T05:46:27.281Z'
-datePublished: '2017-05-01T05:46:27.564Z'
+datePublished: '2017-05-01T05:46:27.517Z'
 title: 'Desmond David, LLC'
 author: []
 publisher: {}
