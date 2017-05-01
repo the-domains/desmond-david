@@ -1,42 +1,61 @@
 ---
-inFeed: true
-description: Paul Larsen
-dateModified: '2017-05-01T04:11:29.823Z'
-datePublished: '2017-05-01T04:11:29.998Z'
-title: 'Future Home of DesmondDavid.com '
+inFeed: false
+description: >-
+  Desmond David  is a unique provider of consulting services to entrepreneurial
+  organization and individuals. In the last 20 years we’ve seen a lot of change
+  in the way companies do business.  Some remain true to their business models,
+  some have adapted to the change technology drives, and some have been born
+  with technology in their DNA.  We work with them all, helping each client
+  adapt and change to succeed.
+dateModified: '2017-05-01T04:39:01.129Z'
+datePublished: '2017-05-01T04:39:01.440Z'
+title: ''
 author: []
-publisher:
-  url: 'http://www.DesmondDavid.com'
-  name: Desmond David
-  favicon: null
-  domain: www.DesmondDavid.com
+publisher: {}
 via: {}
-isBasedOnUrl: 'http://www.DesmondDavid.com'
 sourcePath: _posts/2017-05-01-future-home-of-a-new-site-with-webhero.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-01T03:44:03.846Z'
+url: future-home-of-desmonddavidcom/index.html
 _type: MediaObject
 
 ---
-Paul Larsen
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/225ba386-8395-4529-90a1-c79016b392c8.png)
 
-Desmond David, LLC.
+_**Desmond David is a unique provider of consulting services to entrepreneurial organization and individuals. In the last 20 years we've seen a lot of change in the way companies do business. Some remain true to their business models, some have adapted to the change technology drives, and some have been born with technology in their DNA. We work with them all, helping each client adapt and change to succeed.**_
 
-Owner / Business Development Manager
+---
 
-(201) 321-4316
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5756ecd3-9904-401d-9f23-3164a1c9aa4d.jpg)
+
+> I'm a business professional with strong analytical skills experienced in major business change initiatives. 15 years of
+> experience analyzing core business issues, developing strategic plans, and delivering business results."
+
+**Paul Larsen**
+
+**Desmond David, LLC**
+
+**Owner / Business Development Manager**
+
+(201) 321-4316 (Cell)
+
+(201) - TBA - (eFax)
 
 [Paul.Larsen@DesmondDavid.com][0]
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/741f4d54c566b3ef8c3ae56da7a3ae31/noop.png?input=http%3A%2F%2Fwww.desmonddavid.com%2Fimg-webhero%2Flogo-icann.png" /><h1>Future Home of DesmondDavid.com </h1></article>
+@PaulLarsen5 - Twitter @DesmondDavidLLC - Twitter
 
-[LinkedIn - My Linked In][1]
+---
 
-Facebook Fan Page - Desmond David LLC
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cea5968dcaa5163507d05ffce2ca3ce402dda6d.png" /><h1>Future Home of DesmondDavid.com </h1></article>
 
-Instagram - Desmond David, LLC
+---
 
-YouTube Channel - Desmond David, LLC
+[LinkedIn - My LinkedIn][1] DD- Facebook Fan Page DD-Instagram [Twitter-My Twitter][2][DD- Twitter][3] DD- YouTube [DD-LinkedIn][4]
 
 [0]: http://Paul.Larsen@DesmondDavid.com/ "My Email"
-[1]: http://www.linkedin.com/in/paul-larsen-a5bb461 "My LinkedIn Profile"
+[1]: https://www.linkedin.com/in/paul-larsen-a5bb461 "LinkedIn - Paul Larsen"
+[2]: http://PaulLarsen5/ "Twitter - My Twitter"
+[3]: http://DesmondDavidLLC/ "Desmond David LLC's - Twitter"
+[4]: http://www.linkedin.com/company/desmond-david "LinkedIn - Desmond David, LLC"
