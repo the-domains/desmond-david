@@ -12,6 +12,7 @@ color:
   saturation: 0.644654682987522
   brandStrength: 0.7947830904263032
   rhythmicContrast: 0.4798466771561296
+github: true
 opengraph: {}
 layout_spectrum: 0.894398299511522
 analytics: {}
@@ -24,6 +25,9 @@ name: DESMOND DAVID
 navigation:
   - name: Who We Are
     id: 2a0f279e-9ce3-4ea4-9ce9-79dc03248ee6
+    type: content
+  - name: Social Media
+    id: a423aafe-28a4-431c-9e41-a387a70844f2
     type: content
 favicon: null
 collections:
@@ -48,19 +52,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c55cb4c-c87f-4c90-a242-35323deae6cf.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -72,4 +76,3 @@ purpose:
   - type: internal
     label: About Us!
     item: 2a0f279e-9ce3-4ea4-9ce9-79dc03248ee6
-github: true
