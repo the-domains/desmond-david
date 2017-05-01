@@ -7,8 +7,8 @@ description: >-
   staggering demand growth levels under the direction, guidance and leadership
   of a well known Business Development Manager amongst industry sectors, named
   Paul Larsen.
-dateModified: '2017-05-01T05:33:19.365Z'
-datePublished: '2017-05-01T05:33:19.734Z'
+dateModified: '2017-05-01T05:46:27.281Z'
+datePublished: '2017-05-01T05:46:27.564Z'
 title: 'Desmond David, LLC'
 author: []
 publisher: {}
@@ -103,6 +103,8 @@ We possess the strategic writing talents that are both wordsmith ad idea generat
 **[LinkedIn][1]**[My Twitter][2] Facebook Instagram YouTube [Twitter][3]**[Email][4]**
 
 ---
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdzMEOgjAMANBfaXqHXo3ZdpEjR3-gjiIzDMhaXPh7TfRgPL_kOYY4s6pHq8lMSmMpy5wWQZiKjB4ns03PRF9v45qpE83rMnT8TEPfXzBcq4gp3A74I0ccwGksaTNgPZYIWqJHom1mG9eS29-4puH-jtqHIsSJi4p53G1sThgcfZrwAtHNQBo" height="244" style=""></iframe>
 
 
 
