@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   LinkedIn - My LinkedIn DD- Facebook Fan Page DD-Instagram Twitter-My
   TwitterDD- Twitter DD- YouTube DD-LinkedIn
-dateModified: '2017-05-01T04:46:01.752Z'
-datePublished: '2017-05-01T04:46:02.076Z'
-title: 'Desmond David, LLC'
+dateModified: '2017-05-01T04:56:59.517Z'
+datePublished: '2017-05-01T04:56:59.827Z'
+title: 'Desmond David, LLC - About Us!!'
 author: []
 publisher: {}
 via: {}
@@ -16,7 +16,7 @@ datePublishedOriginal: '2017-04-30T17:17:45.822Z'
 _type: Blurb
 
 ---
-# **Desmond David, LLC**
+# **Desmond David, LLC - About Us!!**
 
 ---
 
