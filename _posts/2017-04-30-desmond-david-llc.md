@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Who and What We Are:'
-dateModified: '2017-05-01T03:31:52.046Z'
-datePublished: '2017-05-01T03:31:52.466Z'
+dateModified: '2017-05-01T03:32:10.082Z'
+datePublished: '2017-05-01T03:32:10.473Z'
 title: 'Desmond David, LLC.'
 author: []
 publisher: {}
